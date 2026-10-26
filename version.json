@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "version_code": 2,
-  "apk_url": "https://github.com/zigmo449/dice-roguelite/releases/download/1.0.1/Dice.Roguelite2.apk",
-  "changelog": "- Исправлена граница кубиков\n- Добавлены новые треки музыки\n- Исправлен баланс Хаоса"
+  "version": "1.0.2",
+  "version_code": 3,
+  "apk_url": "https://github.com/zigmo449/dice-roguelite/releases/download/1.0.2/Dice.Roguelite3.apk",
+  "changelog": "- Кристальная чёткость кубов и стола (1040p)\n- Исправлены двойные щелчки звука\n- Безопасная зона под камеру на всех экранах\n- Убраны боковые полосы с фона"
 }
