@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "version_code": 1,
-  "apk_url": "",
-  "changelog": "Первый релиз игры!"
+  "version": "1.0.1",
+  "version_code": 2,
+  "apk_url": "https://github.com/zigmo449/dice-roguelite/releases/download/1.0.1/Dice.Roguelite2.apk",
+  "changelog": "- Исправлена граница кубиков\n- Добавлены новые треки музыки\n- Исправлен баланс Хаоса"
 }
